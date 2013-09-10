@@ -1,0 +1,43 @@
+/*
+Pedro J Rodriguez
+ASD AUG 2013
+main.css 
+*/
+<<<<<<< HEAD
+background {
+	background: url(images/logo.png)
+}
+=======
+>>>>>>> production
+label.error{
+	display: block; margin: 12px 0; color:#f50505;
+	font-size: 12pt;
+}
+#fErrors{
+	display: none;
+}
+.ui-btn-up-b {
+	font-family: fantasy;
+}
+.ui-body-a {
+	background-image: url(../Images/backgroundLogo.png);
+	background-position: center center;
+	background-repeat: no-repeat;	
+	background-size: contain;
+	font-family: fantasy;
+
+}
+.ui-bar-c{
+	font-family: fantasy;
+	
+}
+.ui-bar-a {
+	font-family: fantasy;
+	
+}
+.ui-overlay-a {
+}
+#minilogo {
+	margin-left: 30px;
+	margin-top:  10px;
+}
